@@ -1,0 +1,6 @@
+{
+  "infohubv2": {
+    "component": "InfoHubV2",
+    "composition": "children"
+  }
+}
